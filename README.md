@@ -1,3 +1,6 @@
+# BSE-05-0055/2024
+# VICTOR CHIRCHIR
+
 # visualization-generation-in-data-science
 import matplotlib.pyplot as plt
 import pandas as pd
